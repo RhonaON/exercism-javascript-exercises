@@ -1,2 +1,2 @@
 # exercism-javascript-exercises
-A repo containing exercises from the Exercism Javascript Track
+A repo containing exercises from the Exercism Javascript track
